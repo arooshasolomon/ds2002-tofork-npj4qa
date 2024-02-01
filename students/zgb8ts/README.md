@@ -1,6 +1,6 @@
 # Emmanuella Cann
-I like cake.
+Favourite Dessert: Cake
 
-I am in my 3rd year.
+Year: Third
 
-Sport: Soccer
+Favourite Sport: Soccer
