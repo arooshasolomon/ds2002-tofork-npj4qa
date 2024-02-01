@@ -1,5 +1,5 @@
-# Your Name
+# Jacob Higgins
 
-- Favorite ice cream: 
-- Hometown: 
-- UVA Year: 
+- Favorite ice cream: Vanilla
+- Hometown: Arlington
+- UVA Year: 3rd
