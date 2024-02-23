@@ -1,6 +1,6 @@
-# ds2002-nem2p
+# ds2002-tofork
 
-A test repository for teaching.
+A test repository for teaching issues, forks, and basic GitHub operations.
 
 ## Issues
 
